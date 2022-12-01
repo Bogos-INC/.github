@@ -4,7 +4,7 @@ The Future of Entertainment.
 
 ## About Us
 
-Bogos Incorporated is a Software and Entertaiment Company currently managed by The Bogos Brothers; John and Carl. We're known for Santa App, and Bogos Client. Learn more at https://client.bogos.tech
+Bogos Incorporated is a Software and Entertaiment Company currently managed by The Bogos Brothers; John and Carl. We're known for Santa App, and Bogos Client. Learn more at https://bogos.tech.
 
 ## Contributing
 
